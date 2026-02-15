@@ -1,5 +1,73 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/jimianelli/jimianelli.r-universe.dev
 	branch = HEAD
+[submodule "FLjjm"]
+	path = FLjjm
+	url = https://github.com/SPRFMO/FLjjm
+[submodule "GOApollock"]
+	path = GOApollock
+	url = https://github.com/afsc-assessments/GOApollock
+[submodule "NamibianHake"]
+	path = NamibianHake
+	url = https://github.com/jimianelli/NamibianHake
+[submodule "SARA"]
+	path = SARA
+	url = https://github.com/afsc-assessments/sara
+[submodule "SPoRC"]
+	path = SPoRC
+	url = https://github.com/jimianelli/SPoRC
+[submodule "VRData"]
+	path = VRData
+	url = https://github.com/jimianelli/VRData
+[submodule "afscISS"]
+	path = afscISS
+	url = https://github.com/afsc-assessments/afscISS
+[submodule "afscassess"]
+	path = afscassess
+	url = https://github.com/afsc-assessments/afscassess
+[submodule "afscdata"]
+	path = afscdata
+	url = https://github.com/afsc-assessments/afscdata
+[submodule "catchfunction"]
+	path = catchfunction
+	url = https://github.com/afsc-assessments/catchfunction
+[submodule "ebswp"]
+	path = ebswp
+	url = https://github.com/afsc-assessments/ebswp
+[submodule "fmR"]
+	path = fmR
+	url = https://github.com/afsc-assessments/fmR
+[submodule "funplots"]
+	path = funplots
+	url = https://github.com/afsc-assessments/funplots
+[submodule "growthbreaks"]
+	path = growthbreaks
+	url = https://github.com/afsc-assessments/growthbreaks
+[submodule "inseasonDashboard"]
+	path = inseasonDashboard
+	url = https://github.com/afsc-assessments/inseasonDashR
+[submodule "jjmR"]
+	path = jjmR
+	url = https://github.com/SPRFMO/jjmr
+[submodule "nwfscAgeingError"]
+	path = nwfscAgeingError
+	url = https://github.com/jimianelli/nwfscAgeingError
+[submodule "pkgdownTemplate"]
+	path = pkgdownTemplate
+	url = https://github.com/jimianelli/popcie
+[submodule "planteam"]
+	path = planteam
+	url = https://github.com/afsc-assessments/planteam
+[submodule "rema"]
+	path = rema
+	url = https://github.com/afsc-assessments/rema
+[submodule "rtmbFunctions"]
+	path = rtmbFunctions
+	url = https://github.com/jimianelli/rtmbsbt
+[submodule "sa4all"]
+	path = sa4all
+	url = https://github.com/afsc-assessments/sa4all
+[submodule "spmR"]
+	path = spmR
+	url = https://github.com/afsc-assessments/spmR
