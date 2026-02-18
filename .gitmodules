@@ -20,6 +20,9 @@
 [submodule "VRData"]
 	path = VRData
 	url = https://github.com/jimianelli/VRData
+[submodule "WtAgeRe"]
+	path = WtAgeRe
+	url = https://github.com/afsc-assessments/WtAgeRe
 [submodule "afscISS"]
 	path = afscISS
 	url = https://github.com/afsc-assessments/afscISS
